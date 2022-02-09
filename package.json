@@ -8,7 +8,7 @@
     "name": "facebook-login-page-clone",
     "version": "1.0.0",
     "description": "copying from codw with harry, might make some tweaks",
-    "main": "index.html",
+    "main": "index.js",
     "scripts": {
         "start": "vite"
     },
