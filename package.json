@@ -1,8 +1,25 @@
 {
-  "devDependencies": {
-    "tailwindcss": "^3.0.19"
-  },
-  "dependencies": {
-    "vite": "^2.8.0"
-  }
+    "devDependencies": {
+        "tailwindcss": "^3.0.19"
+    },
+    "dependencies": {
+        "vite": "^2.8.0"
+    },
+    "name": "facebook-login-page-clone",
+    "version": "1.0.0",
+    "description": "copying from codw with harry, might make some tweaks",
+    "main": "index.html",
+    "scripts": {
+        "start": "vite"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/dipanc1/facebook-login-page-clone-tailwindcss.git"
+    },
+    "author": "dipan",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/dipanc1/facebook-login-page-clone-tailwindcss/issues"
+    },
+    "homepage": "https://github.com/dipanc1/facebook-login-page-clone-tailwindcss#readme"
 }
